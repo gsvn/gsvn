@@ -1,4 +1,3 @@
-### Technical Deep Dive
 * **Scalable Architectures**: Extensive experience building and scaling products end-to-end from initial ideation to high-concurrency delivery.
 * **Full-Stack IC Proficiency**:
     * **Languages**: Node.js, React, Ruby on Rails, Java (Spring and Hibernate), PHP (Laravel and Zend), and Python.
